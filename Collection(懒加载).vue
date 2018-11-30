@@ -40,6 +40,7 @@
 </template>
 
 <script type="text/javascript">
+//没无限滚动好用，那为啥不上无限滚动的代码，因为懒
     import axios from '~/plugins/axios'
     import Cl_good from '~/components/common/Cl_good'
     import Invofcart from '~/components/mine/Invof_cart'
